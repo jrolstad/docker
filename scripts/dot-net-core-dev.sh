@@ -1,0 +1,1 @@
+docker run -i -t -v /c/github/:/github/ -w /github/  microsoft/dotnet
